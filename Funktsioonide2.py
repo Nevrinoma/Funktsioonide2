@@ -67,5 +67,6 @@ print("keskmine kiirus:", round(total,2),"m/m")
 print("")
 M = int(input("sisestage minutid: "))
 H = M//60
-M =M%60
+M = M%60
 print(f"{H}:{M}")
+#sadas
